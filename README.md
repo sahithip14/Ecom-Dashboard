@@ -117,4 +117,4 @@ Understanding product demand patterns enables smarter stock management and suppl
 Quarterly trend analysis helps businesses forecast future sales and prepare seasonal strategies effectively.
 
 ### Screenshot
-https://github.com/sahithip14/Ecom-Dashboard/blob/main/Snapshot%20of%20Ecom%20Dashboard.png
+So here how my dashboard looks like: ![dashboard preview](https://github.com/sahithip14/Ecom-Dashboard/blob/main/Snapshot%20of%20Ecom%20Dashboard.png)
